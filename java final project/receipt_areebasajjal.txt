@@ -1,0 +1,21 @@
+═════════════════════════════════════════════════════════════
+                     HOTEL MANAGEMENT SYSTEM
+                      FINAL RECEIPT FOR: areebasajjal
+═════════════════════════════════════════════════════════════
+Customer Name: areeba 
+CNIC: 37405-0554104-0
+Room Type: Standard Room
+Room Number: 123
+Days of Stay: 3
+Cost per Day: Rs. 5000
+Total Cost: Rs. 15000
+Status: Booked
+═════════════════════════════════════════════════════════════
+SUBTOTAL (Room + Food + Services): Rs. 15000
+GST (17%): Rs. 2550
+GRAND TOTAL (Including GST): Rs. 17550
+Date: 2025-06-15
+Time: 21:55:47.974053700
+═════════════════════════════════════════════════════════════
+             Thank you for staying with us!
+═════════════════════════════════════════════════════════════

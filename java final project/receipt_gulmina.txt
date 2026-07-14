@@ -1,0 +1,26 @@
+═════════════════════════════════════════════════════════════
+                     HOTEL MANAGEMENT SYSTEM
+                      FINAL RECEIPT FOR: gulmina
+═════════════════════════════════════════════════════════════
+Customer Name: gulmina 
+CNIC: 34567-0995438-0
+Room Type: Deluxe Room
+Room Number: 203
+Days of Stay: 2
+Cost per Day: Rs. 8000
+Total Cost: Rs. 16000
+Status: Booked
+
+----- Food Order -----
+Biryani - Rs. 400
+Cold Drink - Rs. 100
+Total Food Bill: Rs. 500
+═════════════════════════════════════════════════════════════
+SUBTOTAL (Room + Food + Services): Rs. 16500
+GST (17%): Rs. 2805
+GRAND TOTAL (Including GST): Rs. 19305
+Date: 2025-06-16
+Time: 10:50:14.398997300
+═════════════════════════════════════════════════════════════
+             Thank you for staying with us!
+═════════════════════════════════════════════════════════════
